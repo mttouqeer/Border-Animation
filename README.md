@@ -1,5 +1,15 @@
 # Border-Animation
+
 Animated Card View with Rotating Gradient
+
+Demo
+
+
+
+https://github.com/user-attachments/assets/1aff5029-99e5-4741-8faf-e915cfabf93f
+
+
+
 
 This SwiftUI component features a rotating animation within a layered design.
 
